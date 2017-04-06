@@ -1,4 +1,4 @@
-# unit-pipe  
+# ng-unit-pipe  
 
 > Unit conversion pipe for Angular based on math.js library
 
